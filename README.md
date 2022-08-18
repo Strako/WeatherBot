@@ -8,6 +8,7 @@ Readme !
 	Python 3.10.6 Lastest
 --------------------------------
 	-Dependencies:
+	
 		Discord.py
 			Python3.10 -m pip install -U discord.py
 			--------
