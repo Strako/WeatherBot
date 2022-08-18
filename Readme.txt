@@ -13,7 +13,7 @@ Readme !
 
 		Discord.py
 			Python3.10 -m pip install -U discord.py
-			--------
+			----------------------------------------
 			verify installation 
 			pip3 show discrod.py 
 				or
@@ -21,7 +21,7 @@ Readme !
 
 		Certifi:
 			pip3 install certifi
-			--------
+			----------------------------------------
 			verify installation 
 			pip3 show certifi 
 				or
