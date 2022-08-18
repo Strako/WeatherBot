@@ -30,9 +30,9 @@ Readme !
 Activate virtual environment					
 ----------------------------------
 
-Run the following command inside the '/WeatherBot' folder
+	Run the following command inside the '/WeatherBot' folder
 
-$ source bot-env/bin/activate
+	$ source bot-env/bin/activate
 
 
 
