@@ -57,7 +57,7 @@ Bot python source files are located inside '/WeaterBot/bot-env/src'
 	https://discordpy.readthedocs.io/en/stable/intro.html
 
 	open-meteo
-	https://open-meteo.com/en/docs#latitude=19.4271&longitude=-99.1276&hourly=temperature_2m,precipitation&timezone=auto&start_date=2022-08-	17&end_date=2022-08-17
+	https://open-meteo.com/en/docs#latitude=19.4271&longitude=-99.1276&hourly=temperature_2m,precipitation&timezone=auto&start_date=2022-08-17&end_date=2022-08-17
 
 	Timezone GMT
 	https://stackoverflow.com/questions/15742045/getting-time-zone-from-lat-long-coordinates
