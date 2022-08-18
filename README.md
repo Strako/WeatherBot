@@ -2,13 +2,15 @@
 A weather bot for Discord
 
 Readme ! 
---------------------------------
+
 -Requirements
+--------------------------------
 
 	Python 3.10.6 Lastest
---------------------------------
-	-Dependencies:
 	
+-Dependencies:
+--------------------------------
+
 		Discord.py
 			Python3.10 -m pip install -U discord.py
 			--------
@@ -24,9 +26,9 @@ Readme !
 			pip3 show certifi 
 				or
 			pip show certifi	
-					
+
+Activate virtual environment					
 ----------------------------------
-Activate virtual environment
 
 Run the following command inside the '/WeatherBot' folder
 
