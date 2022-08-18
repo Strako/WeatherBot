@@ -31,6 +31,7 @@ Activate virtual environment
 Run the following command inside the '/WeatherBot' folder
 
 $ source bot-env/bin/activate
+----------------------------------
 
 Bot python source files are located inside '/WeaterBot/bot-env/src'
 ----------------------------------
@@ -38,5 +39,6 @@ Prefix & Commands
 
 -Bot prefix
 	'$'
+	
 -Commands
 	test: prints 'Aloha Wachin concatenated with the user name who sends the message'.
