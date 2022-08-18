@@ -50,3 +50,23 @@ Prefix & Commands
 	
 -Commands
 	test: prints 'Aloha Wachin concatenated with the user name who sends the message'.
+
+Useful Links
+----------------------------------
+discord.py
+https://discordpy.readthedocs.io/en/stable/intro.html
+
+open-meteo
+https://open-meteo.com/en/docs#latitude=19.4271&longitude=-99.1276&hourly=temperature_2m,precipitation&timezone=auto&start_date=2022-08-17&end_date=2022-08-17
+
+timezonefinder 6.1.0
+https://pypi.org/project/timezonefinder/?fbclid=IwAR03zYsDysU8HBt1KTGa-cKWmB7Nn-93Rho3Y5tPEIdcEUrVbyPGVoTbcEY
+
+nominatim 
+https://nominatim.openstreetmap.org/search?q=San=Luis+Potosi&format=json&polygon=1&addressdetails=1
+
+encryptoenv 0.0.2
+https://pypi.org/project/encryptoenv/#:~:text=To%20encrypt%20the%20.,key%20in%20their%20own%20program.
+
+Storing Tokens and Secrets
+https://tutorial.vcokltfre.dev/tips/tokens/
