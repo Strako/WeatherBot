@@ -31,10 +31,12 @@ Activate virtual environment
 Run the following command inside the '/WeatherBot' folder
 
 $ source bot-env/bin/activate
-
 ----------------------------------
 
+Source Files
 Bot python source files are located inside '/WeaterBot/bot-env/src'
+
+----------------------------------
 
 Prefix & Commands
 ----------------------------------
