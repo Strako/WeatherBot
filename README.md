@@ -42,7 +42,7 @@ Source Files
 Bot python source files are located inside '/WeaterBot/bot-env/src'
 
 
-Prefix & Commands
+-Prefix & Commands
 ----------------------------------
 
 -Bot prefix
@@ -51,7 +51,7 @@ Prefix & Commands
 -Commands
 	test: prints 'Aloha Wachin concatenated with the user name who sends the message'.
 
-Useful Links
+-Useful Links
 ----------------------------------
 discord.py
 https://discordpy.readthedocs.io/en/stable/intro.html
