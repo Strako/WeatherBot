@@ -14,7 +14,7 @@ Readme !
 		Discord.py
 			Python3.10 -m pip install -U discord.py
 			----------------------------------------
-			verify installation 
+			verify installation: 
 			pip3 show discrod.py 
 				or
 			pip show discord.py		
@@ -22,7 +22,7 @@ Readme !
 		Certifi:
 			pip3 install certifi
 			----------------------------------------
-			verify installation 
+			verify installation: 
 			pip3 show certifi 
 				or
 			pip show certifi	
@@ -79,6 +79,5 @@ Bot info [Important!]
 Invite link
 https://discord.com/api/oauth2/authorize?client_id=1009683608312746046&permissions=2048&scope=bot%20applications.commands
 
-Token
-Base64 [ Character set: UTF-8, Newline separator: LF(Unix) ](Decode before use in code)
+Token -Base64 [ Character set: UTF-8, Newline separator: LF(Unix) ](Decode before use in code)
 TVRBd09UWTRNell3T0RNeE1qYzBOakEwTmcuR1pNZDRvLmpHcDVVTlRFMjY2cXdHakNYQ0tiaVp3OW9lbE05T3ZkRmxHamk0
