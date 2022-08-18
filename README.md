@@ -49,7 +49,7 @@ Bot python source files are located inside '/WeaterBot/bot-env/src'
 		'$'
 	
 	-Commands
-		test: prints 'Aloha Wachin concatenated with the user name who sends the message'.
+		testBot: prints 'Aloha Wachin concatenated with the user name who sends the message'.
 
 -Useful Links
 ----------------------------------
