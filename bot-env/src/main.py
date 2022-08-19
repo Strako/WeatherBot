@@ -21,7 +21,8 @@ bot = commands.Bot(command_prefix="$", intents=intents)# Creates a new bot objec
 @bot.command()
 async def temp(ctx, arg):#Defines the command testBot
 	try:
-		temp = round(FW.FetchWeather.getTemp(FW.FetchWeather.getWeather(FW.FetchWeather.replaceChar(arg))), 2)#Retrieve the actual temp in the specified argument
+		#Retrieve the actual temp in the specified argument and round to 2 digits of decimal point
+		temp = round(FW.FetchWeather.getTemp(FW.FetchWeather.getWeather(FW.FetchWeather.replaceChar(arg))), 2)
 		await ctx.channel.send("Aloha Wachin " + ctx.message.author.name +"\n" + "La temperatura en " + arg + " es de : " + str(temp) + " °C")
 	except:
 		print("An exception ocurred")
