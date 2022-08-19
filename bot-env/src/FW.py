@@ -20,7 +20,7 @@ class FetchWeather:
         return temp
 
     @staticmethod
-    def replaceChar(state):
+    def replaceChar(state):#Replace all de blank spaces in a string with '+' sign and returns it
         resultState = ""
         for i in state:
             if i != " ":
