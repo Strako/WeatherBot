@@ -14,10 +14,15 @@ class FetchWeather:
         w_data = w_resp.json()#Parse the http request into JSON
         return w_data
 
-    @staticmethod
+    @staticmethod#Retrieves temp
     def getTemp(w_data):
         temp = (w_data['main']['temp']) - FetchWeather.KELVIN_TO_CELCIUS #Converts the retrieved temp from K to C
         return temp
+    
+    @staticmethod#Retrives himidity
+    def getHumidity(w_data):
+        humidity = (w_data['main']['humidity'])
+        return humidity
 
     @staticmethod
     def replaceChar(state):#Replace all de blank spaces in a string with '+' sign and returns it
