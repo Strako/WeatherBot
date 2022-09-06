@@ -8,7 +8,7 @@ import FW
 from discord.ext import commands
 
 
-DISCORD_TOKEN = 'MTAwOTY4MzYwODMxMjc0NjA0Ng.GZMd4o.jGp5UNTE266qwGjCXCKbiZw9oelM9OvdFlGji4' # API Token
+DISCORD_TOKEN = '' # API Token
 
 intents = discord.Intents.all() # or .all() if you ticked all, that is easier
 intents.members = True # If you ticked the SERVER MEMBERS INTENT
