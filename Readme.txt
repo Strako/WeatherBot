@@ -7,7 +7,8 @@ Readme !
 --------------------------------
 
 	Python 3.10.6 Lastest
-	
+	Add your own discord token in the variabe called DISCORD_TOKEN
+	located in /bot-env/src/main.py	
 -Dependencies:
 --------------------------------
 
