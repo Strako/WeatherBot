@@ -75,10 +75,3 @@ Bot python source files are located inside '/WeaterBot/bot-env/src'
 	Storing Tokens and Secrets
 	https://tutorial.vcokltfre.dev/tips/tokens/
 
-Bot info [Important!]
-----------------------------------
-Invite link
-https://discord.com/api/oauth2/authorize?client_id=1009683608312746046&permissions=2048&scope=bot%20applications.commands
-
-Token -Base64 [ Character set: UTF-8, Newline separator: LF(Unix) ] (Decode before use in code)
-TVRBd09UWTRNell3T0RNeE1qYzBOakEwTmcuR1pNZDRvLmpHcDVVTlRFMjY2cXdHakNYQ0tiaVp3OW9lbE05T3ZkRmxHamk0
