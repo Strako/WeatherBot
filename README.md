@@ -57,7 +57,7 @@ Bot python source files are located inside '/WeaterBot/bot-env/src'
 		$temp your_city
 			Return: "Hi user: your_user 
 					The actual temp in your_city its about actua_temp °C"
-		$humidit your_city
+		$humidity your_city
 			Return: "Hi user: your_user 
 					The actual humidity in your_city its about actua_humidity %"
 		
