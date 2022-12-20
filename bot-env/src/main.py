@@ -21,7 +21,7 @@ async def temp(ctx, arg):#Defines the command testBot
 	try:
 		#Retrieve the actual temp in the specified argument and round to 2 digits of decimal point
 		temp = round(FW.FetchWeather.getTemp(FW.FetchWeather.getWeather(FW.FetchWeather.replaceChar(arg))), 2)
-		await ctx.channel.send("Aloha Wachin " + ctx.message.author.name +"\n" + "La temperatura en " + arg + " es de : " + str(temp) + " °C")
+		await ctx.channel.send("Hi user: " + ctx.message.author.name +"\n" + "The actual temp in: " + arg + " its about: " + str(temp) + " °C")
 	except:
 		print("An exception ocurred")
 
@@ -30,7 +30,7 @@ async def humidity(ctx, arg):#Defines the command testBot
 	try:
 		#Retrieve the actual temp in the specified argument and round to 2 digits of decimal point
 		humidity = round(FW.FetchWeather.getHumidity(FW.FetchWeather.getWeather(FW.FetchWeather.replaceChar(arg))), 2)
-		await ctx.channel.send("Aloha Wachin " + ctx.message.author.name +"\n" + "La humedad en " + arg + " es de : " + str(humidity) + " %")
+		await ctx.channel.send("Hi user: " + ctx.message.author.name +"\n" + "The actual humidity in: " + arg + " its abot: " + str(humidity) + " %")
 	except:
 		print("An exception ocurred")
 
