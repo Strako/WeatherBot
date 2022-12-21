@@ -45,8 +45,9 @@ Bot python source files are located inside '/WeaterBot/bot-env/src'
 
 -Prefix & Commands
 ----------------------------------
-	Bot commands can be added/modified inside the file main.py located at bot-env/src/main.py adding a 
-	new decorator @bot.command() 
+	-Bot commands can be added/modified inside the file main.py located at bot-env/src/main.py adding a 
+	  new decorator @bot.command() 
+	
 	-Bot prefix
 		'$'
 	
