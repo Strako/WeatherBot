@@ -45,13 +45,16 @@ Bot python source files are located inside '/WeaterBot/bot-env/src'
 
 -Prefix & Commands
 ----------------------------------
-	Bot commands can be added/modified inside the file main.py located at bot-env/src/main.py adding a new decorator @bot.command() 
+	Bot commands can be added/modified inside the file main.py located at bot-env/src/main.py adding a 
+	new decorator @bot.command() 
 	-Bot prefix
 		'$'
 	
 	-Commands
-		temp: Retrieve the actual temp in the specified argument and round to 2 digits of decimal point.
-		humidity: Retrieve the actual temp in the specified argument and round to 2 digits of decimal point
+		temp: Retrieve the actual temp in the specified argument and round to 2 digits of decimal 
+		point.
+		humidity: Retrieve the actual temp in the specified argument and round to 2 digits of decimal 
+		point
 	
 	-Example
 		$temp your_city
